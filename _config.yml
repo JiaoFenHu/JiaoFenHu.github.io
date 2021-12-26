@@ -7,7 +7,7 @@ title: 愈望愈无望
 subtitle: Please Call Me Code Imp
 description: 愈望愈无望 - 个人博客
 keywords:
-author: Harlan
+author: 胡椒粉
 language: zh-CN
 timezone:
 
@@ -85,7 +85,7 @@ deploy:
   type: git
   repo:
     # gitee: git@gitee.com:HSweet/HSweet.git
-    github: git@github.com:JiaoFenHu/JiaoFenHu.github.io.git
+    github: https://github.com/JiaoFenHu/JiaoFenHu.github.io.git
   branch: master
 
 search:

@@ -85,8 +85,8 @@ deploy:
   type: git
   repo:
     # gitee: git@gitee.com:HSweet/HSweet.git
-    github: https://github.com/JiaoFenHu/JiaoFenHu.github.io.git
-  branch: master
+    github: git@github.com:JiaoFenHu/JiaoFenHu.github.io.git
+  branch: main
 
 search:
   path: search.xml
